@@ -25,7 +25,7 @@ Hi! 👋 My name is Kips, and I'm an aspiring developer from Russia. I'm current
 
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&labelColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=%23000000)
-![Static Badge](https://img.shields.io/badge/TypeScript-black?logo=typescript&labelColor=black&color=%233178C6)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&labelColor=%23000000)
 
 ### 📖 Frameworks & Libs
 
@@ -36,6 +36,7 @@ Hi! 👋 My name is Kips, and I'm an aspiring developer from Russia. I'm current
 ### 🌱 Databases
 
 ![Static Badge](https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&labelColor=%23000000)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=%23000000)
 
 ### 🛠️ Tools & IDEs
 
