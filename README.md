@@ -3,7 +3,7 @@
 <h3 align="center">🔗 My social networks</h3>
 
 <p align="center">
-  <a href="https://www.youtube.com/@kipsinka" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=#FF0000&labelColor=%23000000"></a>
+  <a href="https://www.youtube.com/@kipsinka" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&labelColor=%23000000"></a>
   &nbsp;
   <a href="https://t.me/kipsinka" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/telegram-%2326A5E4?style=for-the-badge&logo=telegram&labelColor=%23000000"></a>
   &nbsp;
