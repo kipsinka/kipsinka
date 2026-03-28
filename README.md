@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img width="720" src="./assets/github-snake.svg" alt="github-snake"/>
+  <img width="720" src="./github-snake.svg" alt="github-snake"/>
 </p>
 
 ## <p>&nbsp;</p>
