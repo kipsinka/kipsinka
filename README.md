@@ -23,26 +23,26 @@ Hi! 👋 My name is Kips, and I'm an aspiring developer from Russia. I'm current
 
 ### 🐍 Programming Languages
 
-![Python](https://img.shields.io/badge/---%233776AB?style=for-the-badge&logo=python&logoColor=black&label=Python&labelColor=%233776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=%23000000)
-![TypeScript](https://img.shields.io/badge/---%233178C6?style=for-the-badge&logo=typescript&logoColor=black&label=TypeScript&labelColor=%233178C6)
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&labelColor=000000&logoColor=000000)
+![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=000000&logoColor=000000)
+![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&labelColor=000000&logoColor=000000)
 
 ### 📖 Frameworks & Libs
 
-![Node.JS](https://img.shields.io/badge/---%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=black&label=Node.JS&labelColor=%235FA04E)
-![Deno](https://img.shields.io/badge/Deno-%23FFFFFF?style=for-the-badge&logo=deno&logoColor=black&labelColor=%23000000)
-![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=%23000000)
-![Express](https://img.shields.io/badge/Express-%23ffffff?style=for-the-badge&logo=express&logoColor=black&labelColor=%23000000)
+![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&labelColor=000000)
+![Static Badge](https://img.shields.io/badge/express-%23ffffff?style=for-the-badge&logo=express&labelColor=000000&logoColor=000000)
+![Static Badge](https://img.shields.io/badge/Node.JS-%235FA04E?style=for-the-badge&logo=nodedotjs&labelColor=000000&logoColor=000000)
+![Static Badge](https://img.shields.io/badge/Deno-%23FFFFFF?style=for-the-badge&logo=deno&labelColor=000000&logoColor=000000)
 
 ### 🌱 Databases
 
-![MongoDB](https://img.shields.io/badge/---%2347A248?style=for-the-badge&logo=mongodb&logoColor=black&label=MongoDB&labelColor=%2347A248)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=%23000000)
+![Static Badge](https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&labelColor=000000&logoColor=000000)
+![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
 
 ### 🛠️ Tools & IDEs
 
-![GIT](https://img.shields.io/badge/---%23F05032?style=for-the-badge&logo=git&logoColor=black&label=GIT&labelColor=%23F05032)
-![Figma](https://img.shields.io/badge/---%23F24E1E?style=for-the-badge&logo=figma&logoColor=black&label=Figma&labelColor=%23F24E1E)
+![Static Badge](https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&labelColor=000000&logoColor=000000)
+![Static Badge](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&labelColor=000000&logoColor=000000)
 
 <hr>
 
