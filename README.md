@@ -32,7 +32,7 @@ Hi! 👋 My name is Kips, and I'm an aspiring developer from Russia. I'm current
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&labelColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/express-%23ffffff?style=for-the-badge&logo=express&logoColor=%23ffffff&labelColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/Node.JS-%235FA04E?style=for-the-badge&logo=nodedotjs&labelColor=%23000000)
-![Deno](https://img.shields.io/badge/Deno-%23000000?style=for-the-badge&logo=deno&logoColor=white&labelColor=%23000000)
+![Deno](https://img.shields.io/badge/Deno-%23FFFFFF?style=for-the-badge&logo=deno&logoColor=white&labelColor=%23000000)
 
 ### 🌱 Databases
 
