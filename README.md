@@ -7,7 +7,7 @@
   &nbsp;
   <a href="https://t.me/kipsinka" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/telegram-%2326A5E4?style=for-the-badge&logo=telegram&labelColor=%23000000"></a>
   &nbsp;
-  <a href="https://discord.com/invite/NHFxj4McDw" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=black&labelColor=%23000000"></a>
+  <a href="https://discord.com/invite/NHFxj4McDw" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&labelColor=%23000000"></a>
 </p>
 
 </p>
